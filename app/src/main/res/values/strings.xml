@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fragment Example</string>
+    <string name="btn_welcome_msg">Click to Hi5 Me!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="main_activity_label">First Fragment Part 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="import_nav">Import</string>
+    <string name="gallery_nav">Gallery</string>
+    <string name="slideshow_nav">Slideshow</string>
+    <string name="tools_nav">Tools</string>
+    <string name="share_nav">Share</string>
+    <string name="send_nav">Send</string>
+    <string name="communicate_nav">Communicate</string>
+</resources>
